@@ -1,0 +1,56 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    text-align: left;
+    background: #f7f7f7;
+    padding: 12px 8px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #696868;
+}
+
+td {
+    text-align: left;
+    padding: 8px 8px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.no-list {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.delete-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 58px;
+}
+
+.delete-section img {
+    flex: 1;
+    cursor: pointer;
+    margin-top: -4px;
+    height: 30px;
+    width: 30px;
+}
+
+.status {
+    flex: 1.8;
+    text-align: end;
+}
+
+@media screen and (max-width: 800px) {
+    table {
+        font-size: 14px;
+    }
+    th {
+        font-size: 12px;
+    }
+}
+  

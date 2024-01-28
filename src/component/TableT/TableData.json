@@ -1,0 +1,178 @@
+[
+    {
+        "id": "124301",
+        "date": "26/01/2024",
+        "branch": "Thane",
+        "type": "Full",
+        "amount": "4,67,325",
+        "bank": "CMV HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A123",
+        "status": "Pending"
+    },
+    {
+        "id": "124302",
+        "date": "21/01/2024",
+        "branch": "Navi Mumbai",
+        "type": "Full",
+        "amount": "56,732",
+        "bank": "UYT SCB 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A3321",
+        "status": "Approved"
+    },
+    {
+        "id": "124303",
+        "date": "22/01/2024",
+        "branch": "Thane",
+        "type": "Full",
+        "amount": "2,45,732",
+        "bank": "OIT HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A2222",
+        "status": "Pending"
+    },
+    {
+        "id": "124304",
+        "date": "22/01/2024",
+        "branch": "Kurla",
+        "type": "Short",
+        "amount": "8,96,732",
+        "bank": "YTF SBI 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A121",
+        "status": "Rejected"
+    },
+    {
+        "id": "124305",
+        "date": "23/01/2024",
+        "branch": "Vile Parle",
+        "type": "Full",
+        "amount": "16,732",
+        "bank": "PHS SBI 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A125",
+        "status": "Pending"
+    },
+    {
+        "id": "124306",
+        "date": "25/01/2024",
+        "branch": "Lower Parel",
+        "type": "Short",
+        "amount": "7,86,732",
+        "bank": "CMV HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A1111",
+        "status": "Approved"
+    },
+    {
+        "id": "124307",
+        "date": "26/01/2024",
+        "branch": "Thane",
+        "type": "Short",
+        "amount": "9,28,732",
+        "bank": "PDS HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A313",
+        "status": "Rejected"
+    },
+    {
+        "id": "124308",
+        "date": "25/01/2024",
+        "branch": "Byculla",
+        "type": "Full",
+        "amount": "2,00,732",
+        "bank": "MGB SCB 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A1256",
+        "status": "Pending"
+    },
+    {
+        "id": "124311",
+        "date": "26/01/2024",
+        "branch": "Thane",
+        "type": "Full",
+        "amount": "4,67,325",
+        "bank": "CMV HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A123",
+        "status": "Pending"
+    },
+    {
+        "id": "124312",
+        "date": "21/01/2024",
+        "branch": "Navi Mumbai",
+        "type": "Full",
+        "amount": "56,732",
+        "bank": "UYT SCB 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A3321",
+        "status": "Approved"
+    },
+    {
+        "id": "124313",
+        "date": "22/01/2024",
+        "branch": "Thane",
+        "type": "Full",
+        "amount": "2,45,732",
+        "bank": "OIT HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A2222",
+        "status": "Pending"
+    },
+    {
+        "id": "124314",
+        "date": "22/01/2024",
+        "branch": "Kurla",
+        "type": "Short",
+        "amount": "8,96,732",
+        "bank": "YTF SBI 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A121",
+        "status": "Rejected"
+    },
+    {
+        "id": "124315",
+        "date": "23/01/2024",
+        "branch": "Vile Parle",
+        "type": "Full",
+        "amount": "16,732",
+        "bank": "PHS SBI 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A125",
+        "status": "Pending"
+    },
+    {
+        "id": "124316",
+        "date": "25/01/2024",
+        "branch": "Lower Parel",
+        "type": "Short",
+        "amount": "7,86,732",
+        "bank": "CMV HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A1111",
+        "status": "Approved"
+    },
+    {
+        "id": "124317",
+        "date": "26/01/2024",
+        "branch": "Thane",
+        "type": "Short",
+        "amount": "9,28,732",
+        "bank": "PDS HDFC 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A313",
+        "status": "Rejected"
+    },
+    {
+        "id": "124318",
+        "date": "25/01/2024",
+        "branch": "Byculla",
+        "type": "Full",
+        "amount": "2,00,732",
+        "bank": "MGB SCB 1223562536",
+        "request_by": "Sharad Verma",
+        "request_code": "A1256",
+        "status": "Pending"
+    }
+]
